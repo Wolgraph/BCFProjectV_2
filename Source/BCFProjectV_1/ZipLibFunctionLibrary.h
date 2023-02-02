@@ -1,0 +1,20 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+#pragma once
+
+#include "CoreMinimal.h"
+#include "Kismet/BlueprintFunctionLibrary.h"
+#include "ZipLibFunctionLibrary.generated.h"
+
+/**
+ * 
+ */
+
+
+UCLASS()
+class BCFPROJECTV_1_API UZipLibFunctionLibrary : public UBlueprintFunctionLibrary
+{
+	GENERATED_BODY()
+
+};
+

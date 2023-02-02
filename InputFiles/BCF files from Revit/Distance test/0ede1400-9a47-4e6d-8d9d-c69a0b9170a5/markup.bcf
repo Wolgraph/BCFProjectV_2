@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Markup>
+	<Topic Guid="0ede1400-9a47-4e6d-8d9d-c69a0b9170a5" TopicType="Issue" TopicStatus="Active">
+		<Title>ciao</Title>
+		<Priority>Normal</Priority>
+		<Index>1</Index>
+		<CreationDate>2021-11-22T09:05:26+00:00</CreationDate>
+		<CreationAuthor>a.santini@dva.vision</CreationAuthor>
+		<ModifiedDate>2021-11-22T09:05:26+00:00</ModifiedDate>
+		<ModifiedAuthor>a.santini@dva.vision</ModifiedAuthor>
+		<AssignedTo>a.santini@dva.vision</AssignedTo>
+	</Topic>
+	<Comment Guid="44a315b3-64fd-4662-851e-969eee9e2d32">
+		<Date>2021-11-22T09:05:26+00:00</Date>
+		<Author>a.santini@dva.vision</Author>
+		<Comment></Comment>
+		<Topic Guid="0ede1400-9a47-4e6d-8d9d-c69a0b9170a5" />
+		<Viewpoint Guid="fcef5068-768e-4ff4-a4b9-42fd2d39a393" />
+		<ModifiedDate>2021-11-22T09:05:26+00:00</ModifiedDate>
+		<ModifiedAuthor>a.santini@dva.vision</ModifiedAuthor>
+	</Comment>
+	<Viewpoints Guid="fcef5068-768e-4ff4-a4b9-42fd2d39a393">
+		<Viewpoint>viewpoint.bcfv</Viewpoint>
+		<Snapshot>snapshot.png</Snapshot>
+	</Viewpoints>
+</Markup>
